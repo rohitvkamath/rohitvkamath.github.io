@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkdoc_portfolio=globalThis.webpackChunkdoc_portfolio||[]).push([[947],{6600(o){o.exports=JSON.parse('{"authors":[{"name":"Rohit Kamath","title":"Founder and CEO, Technolz LLC.","url":"https://rohitvkamath.github.io","key":"rkamath","page":null,"count":1}]}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkdoc_portfolio=globalThis.webpackChunkdoc_portfolio||[]).push([[121],{8070(o){o.exports=JSON.parse('{"tags":[{"label":"hello","permalink":"/blog/tags/hello","count":1}]}')}}]);
